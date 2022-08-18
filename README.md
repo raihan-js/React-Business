@@ -8,7 +8,7 @@ A Basic React Template for business
 
 ## Demo
 
- [Live Demo](https://hungry-sinoussi-a52f99.netlify.app/)
+ [Live Demo](https://react-business-raihanjs.netlify.app/)
 
 
 ## Used Tools
